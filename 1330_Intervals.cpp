@@ -1,3 +1,4 @@
+// Problem: https://acm.timus.ru/problem.aspx?space=1&num=1330
 // Python3 slow for printing output, C++ solution with same logic got acccepted
 // Execution Time: 0.453s
 // Memory used: 5.148 KB
